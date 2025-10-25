@@ -118,9 +118,12 @@ New followers and chat notifications
 
 Real-time updates with Socket.io
 
-Roles & Responsibilities
-User:
+Roles & Responsibilities Of User: 
+
 Create and manage profile
+
 Share posts and stories
+
 Interact with content (likes, comments, shares)
+
 Connect and chat with other users
