@@ -112,8 +112,11 @@ npm start
 Access the app: http://localhost:3000
 
 
+Demo Video : https://drive.google.com/file/d/1mZve78StQGyPyZZoD0j0CKmDeKRgRT5t/view
+
 
 🔑 Features Walkthrough
+
 Authentication
 
 User registration & login
